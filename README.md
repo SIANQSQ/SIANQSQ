@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @QSQ
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me C++!  Haha!
+- 🏫I am studying in Dalian University of Technology
+- ✒I am major in Engineering Mechanics
+- 📫 My personal website: qsq.cool (IPv6 needed)
 
 <!---
 SIANQSQ/SIANQSQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
