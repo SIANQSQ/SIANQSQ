@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QSQ
+- 👋 Hi, I’m QSQ
 - 🏫I am studying in Dalian University of Technology
 - ✒I am major in Engineering Mechanics
 - 📫 My personal website: qsq.cool (IPv6 needed)
